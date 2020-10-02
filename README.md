@@ -1,7 +1,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
 </p>
-### Hi there 👋<h2> I'm Rajan Jayswal</h2>
+👋<h2> I'm Rajan Jayswal</h2>
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -49,7 +49,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan-max&show_icons=true)
 
 <br><br>
-
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+  <img src="https://profile-counter.glitch.me/Rajan-max/count.svg" />
+</p>
 
 
 <hr>
