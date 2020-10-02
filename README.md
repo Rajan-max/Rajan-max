@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/java-%23121011.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
 </div>
+<br>
+
 ### Web Technologies Used:
 <div display="flex">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
