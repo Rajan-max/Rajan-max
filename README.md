@@ -2,13 +2,12 @@
   <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
 </p>
 👋<h2> I'm Rajan Jayswal</h2>
-<br>
 <h3> 👨🏻• Connect With Me: </h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rajan-jayswal/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rajanzais/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/rajan.jaiswal.9803/)
-
+[<img src="https://pbs.twimg.com/profile_images/892067670970978305/_K34MGL8_400x400.jpg?&style=for-the-badge&logo=gmail&logoColor=white">](https://jaiswalrajan460@gmail.com/)
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
