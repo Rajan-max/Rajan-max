@@ -1,7 +1,8 @@
 <div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
+
+# Hello, world! 👋
 👋<h2> I'm Rajan Jayswal</h2>
 <h3> 👨🏻• Let's Connect and Chat!: </h3>
 
