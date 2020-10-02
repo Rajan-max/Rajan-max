@@ -50,7 +50,7 @@
 
 <br><br>
 <p align="center"> 
-  <i><h2><b>Profile Visitor Count...</b></h2></i><br>
+  <i><b><h2 align="center">Profile Visitor Count...</></b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
   <img src="https://profile-counter.glitch.me/Rajan-max/count.svg" />
 </p>
