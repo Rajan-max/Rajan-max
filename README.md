@@ -38,7 +38,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajan-max&show_icons=true)](https://github.com/Rajan-max)
+[![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajan-max&show_icons=true)](https://github.com/Rajan-max)
 
 <br/>
 
@@ -50,7 +50,7 @@
 
 <br><br>
 <p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br>
+  <i><b><h2>Profile Visitor Count...</h2></b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
   <img src="https://profile-counter.glitch.me/Rajan-max/count.svg" />
 </p>
